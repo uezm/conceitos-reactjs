@@ -10,7 +10,7 @@
 
 ## :satellite: Tecnologias 
 Esse projeto foi desenvolvido com as seguintes tecnologias: <br>
-[- React.js](#)
+[- React.js](#) <br>
 [- Node.js](https://nodejs.org/en/) <br>
 [- Express](https://expressjs.com/) <br>
 [- among others...](#) 
