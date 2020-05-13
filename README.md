@@ -10,12 +10,13 @@
 
 ## :satellite: Tecnologias 
 Esse projeto foi desenvolvido com as seguintes tecnologias: <br>
+[- React.js](#)
 [- Node.js](https://nodejs.org/en/) <br>
 [- Express](https://expressjs.com/) <br>
 [- among others...](#) 
 
 ## :tophat: Desafio
-Esse repositório serviu de desafio para treinar a criação de uma aplicação Node.js 
+Esse repositório serviu de desafio para treinar a criação de uma aplicação React.js
 ao colocar em prática alguns conceitos que se aprendeu até agora.
 
 ## :computer: Como contribuir
